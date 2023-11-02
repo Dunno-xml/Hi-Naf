@@ -1,0 +1,19 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #E4E4D0;
+}
+
+h1{
+    color: #4E6C50;
+}
+
+.poem{
+    margin-top: 32px;
+    margin-left: 16px;
+    color: #4E6C50;
+}
+
+.bold{
+    font-weight: bold;
+}
+
